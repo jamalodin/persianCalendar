@@ -1,2 +1,2 @@
-# persianCalendar
+# PersianCalendar
 Calendar for persian language
